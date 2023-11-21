@@ -1,0 +1,8 @@
+﻿  Zad2.cpp
+C:\Users\Programista\Desktop\21.11.2023\Zad2\Zad2.cpp(9,23): warning C4311: "typ rzutowania": obcięcie wskaźnika z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad2\Zad2.cpp(9,23): warning C4302: "typ rzutowania": obcięcie z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad2\Zad2.cpp(12,27): warning C4311: "typ rzutowania": obcięcie wskaźnika z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad2\Zad2.cpp(12,27): warning C4302: "typ rzutowania": obcięcie z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad2\Zad2.cpp(13,24): warning C4311: "typ rzutowania": obcięcie wskaźnika z "std::string **" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad2\Zad2.cpp(13,24): warning C4302: "typ rzutowania": obcięcie z "std::string **" do "int"
+  Zad2.vcxproj -> C:\Users\Programista\Desktop\21.11.2023\Zad2\x64\Debug\Zad2.exe

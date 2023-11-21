@@ -1,0 +1,18 @@
+﻿  Zad3.cpp
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(15,35): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(15,35): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(16,35): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(16,35): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(17,35): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(17,35): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(18,35): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(18,35): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(19,35): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(19,35): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(26,46): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(26,46): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(27,46): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(27,46): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(28,79): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\21.11.2023\Zad3\Zad3.cpp(28,79): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  Zad3.vcxproj -> C:\Users\Programista\Desktop\21.11.2023\Zad3\x64\Debug\Zad3.exe

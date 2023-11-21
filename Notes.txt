@@ -1,0 +1,6 @@
+Tablice dynamiczne
+
+Wskaźniki C++
+Mirosław Zelen wskaźniki * w C++ ,mówi że jest to zmienna wskaźnikowa & można przypisać do wskaźnik a wartość
+ 
+Utwórz wskaźnik na string tak jak na lekcji oraz na float
