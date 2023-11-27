@@ -4,3 +4,9 @@ Wskaźniki C++
 Mirosław Zelen wskaźniki * w C++ ,mówi że jest to zmienna wskaźnikowa & można przypisać do wskaźnik a wartość
  
 Utwórz wskaźnik na string tak jak na lekcji oraz na float
+
+Zalety używania wskaźników
+-Dynamiczne rezerwowanie i zwalnianie obszarów pamięci
+-zwiększenie szybkości zapisu / odczytu komórek w tablicy
+-Dawanie funkcjom do pracy oryginałów zmiennych z programu wywołującego
+-możliwość współpracy z urządzeniem zewnątrznym np. miernik temperatury
