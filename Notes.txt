@@ -5,6 +5,8 @@ Mirosław Zelen wskaźniki * w C++ ,mówi że jest to zmienna wskaźnikowa & mo�
  
 Utwórz wskaźnik na string tak jak na lekcji oraz na float
 
+*wsk-wskaźnik wyłuskania
+int *wsk
 Zalety używania wskaźników
 -Dynamiczne rezerwowanie i zwalnianie obszarów pamięci
 -zwiększenie szybkości zapisu / odczytu komórek w tablicy
